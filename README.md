@@ -23,9 +23,17 @@ Modern, hızlı ve kullanımı kolay bir masaüstü medya işleme aracı! Bu uyg
 
 ---
 
-## 🛠️ Kurulum
+## 🛠️ Sıfırdan Nasıl Yapılır? (Kurulum ve Çalıştırma)
 
-1. **Projeyi Kopyalayın (Cloning):**
-   ```bash
-   git clone [https://github.com/kullanici-adi/gorsel-pdf-donusturucu.git](https://github.com/kullanici-adi/gorsel-pdf-donusturucu.git)
-   cd gorsel-pdf-donusturucu
+Bu projeyi kendi bilgisayarınızda sıfırdan oluşturup çalıştırmak için aşağıdaki adımları sırasıyla uygulayabilirsiniz:
+
+### 1. Adım: Proje Klasörü ve Dosyası Oluşturun
+Bilgisayarınızda veya VS Code içinde yeni bir klasör oluşturun ve içine `"istediğinizad".py` adında boş bir Python dosyası açın.
+
+### 2. Adım: Gerekli Kütüphaneleri Yükleyin
+VS Code Terminalini (`Ctrl + ~`) veya Terminale basıp New Terminal (`Ctrl + shift + "`) basarak açabilrisiniz:
+
+```bash
+pip install customtkinter Pillow pypdf
+```
+Terminal'e bu bashi yazarak gereken kurulumu yapmış olursunuz ve açmış olduğunuz "istediğinizad".py'nin içerisine kodunuzu yazabilirsiniz.
