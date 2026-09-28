@@ -37,3 +37,9 @@ VS Code Terminalini (`Ctrl + ~`) veya Terminale basıp New Terminal (`Ctrl + shi
 pip install customtkinter Pillow pypdf
 ```
 Terminal'e bu bashi yazarak gereken kurulumu yapmış olursunuz ve açmış olduğunuz "istediğinizad".py'nin içerisine kodunuzu yazabilirsiniz.
+
+## 🚀 Doğrudan İndir ve Çalıştır (Windows)
+
+Python veya herhangi bir kütüphane kurmanıza gerek kalmadan uygulamayı kullanmak için sağ taraftaki Releases kısmına tıklayı indirebilirsiniz:
+
+*İndirdikten sonra `converter_app.exe` dosyasına çift tıklayarak çalıştırabilirsiniz.*
